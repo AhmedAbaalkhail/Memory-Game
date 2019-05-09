@@ -4,7 +4,7 @@ This is a game made of 16 cards and to win you have to find the matching cards t
 
 ## Disclaimer
 
-* The HTML and the CSS files are downloaded from Udacity at Front End Course I made some changes on these files to make this project.
+- The HTML and the CSS files are downloaded from Udacity at Front End Course I made some changes on these files to make this project.
 
 * Shuffle function from http://stackoverflow.com/a/2450976
 
