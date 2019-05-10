@@ -6,7 +6,7 @@ This is a game made of 16 cards and to win you have to find the matching cards t
 
 - The HTML and the CSS files are downloaded from Udacity at Front End Course I made some changes on these files to make this project.
 
-* Shuffle function from http://stackoverflow.com/a/2450976
+- Shuffle function from http://stackoverflow.com/a/2450976
 
 * Timer function from https://stackoverflow.com/questions/3583724/how-do-i-add-a-delay-in-a-javascript-loop
 
